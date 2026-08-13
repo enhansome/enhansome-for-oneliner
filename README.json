@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35441
+            "stars": 35447
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67267
+            "stars": 67293
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60220
+            "stars": 60227
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T20:56:16Z",
+            "last_commit": "2026-08-13T11:19:04Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26851
+            "stars": 26859
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-12T04:57:11Z",
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3707
+            "stars": 3708
           }
         }
       ],
@@ -485,7 +485,7 @@
             "last_commit": "2024-12-10T23:49:11Z",
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7495
+            "stars": 7496
           }
         },
         {
@@ -547,7 +547,7 @@
             "last_commit": "2026-08-04T17:57:03Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20150
+            "stars": 20151
           }
         },
         {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:29.775Z",
+    "last_updated": "2026-08-13T14:34:32.992Z",
     "original_repository": "sheepla/awesome-for-oneliner",
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",
     "enhanced_repository": "enhansome/enhansome-for-oneliner",
