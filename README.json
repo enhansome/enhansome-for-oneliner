@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35447
+            "stars": 35449
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2026-03-18T13:18:28Z",
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1674
+            "stars": 1673
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-02-25T19:26:21Z",
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7295
+            "stars": 7298
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67293
+            "stars": 67323
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27107
+            "stars": 27108
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60227
+            "stars": 60237
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-13T11:19:04Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26859
+            "stars": 26874
           }
         },
         {
@@ -533,7 +533,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37435
+            "stars": 37443
           }
         },
         {
@@ -547,7 +547,7 @@
             "last_commit": "2026-08-04T17:57:03Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20151
+            "stars": 20152
           }
         },
         {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:34:32.992Z",
+    "last_updated": "2026-08-14T14:27:41.488Z",
     "original_repository": "sheepla/awesome-for-oneliner",
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",
     "enhanced_repository": "enhansome/enhansome-for-oneliner",
