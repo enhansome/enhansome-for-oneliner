@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35461
+            "stars": 35460
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8017
+            "stars": 8018
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-02-25T19:26:21Z",
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7305
+            "stars": 7308
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-05-11T01:13:50Z",
             "owner": "ms-jpq",
             "repo": "sad",
-            "stars": 2044
+            "stars": 2045
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67346
+            "stars": 67371
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27102
+            "stars": 27104
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60194
+            "stars": 60201
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26917
+            "stars": 26936
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2024-12-10T23:49:11Z",
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7497
+            "stars": 7498
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-12T14:23:08Z",
             "owner": "eggplants",
             "repo": "deepl-cli",
-            "stars": 304
+            "stars": 305
           }
         }
       ],
@@ -533,7 +533,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37457
+            "stars": 37460
           }
         },
         {
@@ -544,10 +544,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T08:07:54Z",
+            "last_commit": "2026-08-18T11:17:14Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20170
+            "stars": 20181
           }
         },
         {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:56:10.526Z",
+    "last_updated": "2026-08-18T14:00:27.864Z",
     "original_repository": "sheepla/awesome-for-oneliner",
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",
     "enhanced_repository": "enhansome/enhansome-for-oneliner",
