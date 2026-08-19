@@ -8,7 +8,7 @@
 <div align="center">
   <h1> 🐚 Awesome CLI tools for One Liner </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,690 | 🐛 102 | 📅 2026-08-18
 
 This is a list of useful commands in the Unix shell one liner. **Contributions are welcome!**
 
@@ -95,11 +95,11 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 ## Sed Replacement
 
 * [sd](https://github.com/chmln/sd) ⭐ 7,308 | 🐛 76 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
-* [sad](https://github.com/ms-jpq/sad) ⭐ 2,045 | 🐛 28 | 🌐 Rust | 📅 2026-05-11 - sed replacement written in Rust
+* [sad](https://github.com/ms-jpq/sad) ⭐ 2,046 | 🐛 28 | 🌐 Rust | 📅 2026-05-11 - sed replacement written in Rust
 
 ## Grep Replacement
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,395 | 🐛 179 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,399 | 🐛 179 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
 * [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,103 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
 * [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,243 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
 
@@ -109,8 +109,8 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Cat Replacement
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,215 | 🐛 421 | 🌐 Rust | 📅 2026-08-11 - A rewrite of cat with paging, syntax highlighting, and line numbers
-* [glow](https://github.com/charmbracelet/glow) ⭐ 26,949 | 🐛 221 | 🌐 Go | 📅 2026-08-16 - A command-line markdown viewer/renderer
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,216 | 🐛 422 | 🌐 Rust | 📅 2026-08-11 - A rewrite of cat with paging, syntax highlighting, and line numbers
+* [glow](https://github.com/charmbracelet/glow) ⭐ 26,952 | 🐛 221 | 🌐 Go | 📅 2026-08-16 - A command-line markdown viewer/renderer
 * [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,711 | 🐛 46 | 🌐 Python | 📅 2026-08-12 - Syntax-highlights files from the command line
 
 ## AWK-like Tools
@@ -180,7 +180,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Related *Awesome* Repositories
 
-* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,461 | 🐛 183 | 📅 2025-08-28
+* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,462 | 🐛 183 | 📅 2025-08-28
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,187 | 🐛 1 | 🌐 Shell | 📅 2026-08-18
 * [command-line-tools](https://github.com/learn-anything/command-line-tools) ⭐ 492 | 🐛 15 | 📅 2026-08-16
 
