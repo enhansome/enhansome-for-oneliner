@@ -320,7 +320,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27104
+            "stars": 27105
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27018
+            "stars": 27019
           }
         },
         {
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:20.283Z",
+    "last_updated": "2026-08-24T15:07:19.020Z",
     "original_repository": "sheepla/awesome-for-oneliner",
     "original_repository_id": 407853897,
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",

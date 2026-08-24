@@ -8,7 +8,7 @@
 <div align="center">
   <h1> 🐚 Awesome CLI tools for One Liner </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,526 | 🐛 106 | 📅 2026-08-21
 
 This is a list of useful commands in the Unix shell one liner. **Contributions are welcome!**
 
@@ -100,7 +100,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 ## Grep Replacement
 
 * [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,555 | 🐛 180 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
-* [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,104 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
+* [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,105 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
 * [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,250 | 🐛 7 | 🌐 C++ | 📅 2026-08-24 - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
 
 ## Find Replacement
@@ -110,7 +110,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 ## Cat Replacement
 
 * [bat](https://github.com/sharkdp/bat) ⭐ 60,240 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 - A rewrite of cat with paging, syntax highlighting, and line numbers
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,018 | 🐛 222 | 🌐 Go | 📅 2026-08-16 - A command-line markdown viewer/renderer
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,019 | 🐛 222 | 🌐 Go | 📅 2026-08-16 - A command-line markdown viewer/renderer
 * [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,711 | 🐛 46 | 🌐 Python | 📅 2026-08-12 - Syntax-highlights files from the command line
 
 ## AWK-like Tools
