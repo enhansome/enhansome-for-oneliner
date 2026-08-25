@@ -80,7 +80,7 @@
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8024
+            "stars": 8026
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-02-25T19:26:21Z",
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7320
+            "stars": 7321
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67555
+            "stars": 67575
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27105
+            "stars": 27107
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-08-24T14:11:20Z",
             "owner": "Genivia",
             "repo": "ugrep",
-            "stars": 3250
+            "stars": 3252
           }
         }
       ],
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60240
+            "stars": 60247
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27019
+            "stars": 27028
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-12T04:57:11Z",
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3711
+            "stars": 3712
           }
         }
       ],
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 571770,
             "language": "Haskell",
-            "last_commit": "2026-08-23T01:37:17Z",
+            "last_commit": "2026-08-24T19:08:32Z",
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 45996
+            "stars": 46005
           }
         }
       ],
@@ -690,7 +690,7 @@
             "last_commit": "2026-05-01T02:19:26Z",
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6464
+            "stars": 6463
           }
         }
       ],
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 183251932,
             "language": "Go",
-            "last_commit": "2026-08-18T20:22:48Z",
+            "last_commit": "2026-08-24T20:22:40Z",
             "owner": "jiro4989",
             "repo": "textimg",
             "stars": 260
@@ -760,7 +760,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37496
+            "stars": 37501
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20232
+            "stars": 20239
           }
         },
         {
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:19.020Z",
+    "last_updated": "2026-08-25T06:30:14.486Z",
     "original_repository": "sheepla/awesome-for-oneliner",
     "original_repository_id": 407853897,
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",
