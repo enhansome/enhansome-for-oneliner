@@ -18,7 +18,8 @@
                 "owner": "hroptatyr",
                 "repo": "dateutils",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T23:04:46.469Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "usp-engineers-community",
                 "repo": "Open-usp-Tukubai",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T23:04:46.469Z"
             }
           ],
           "description": null,
@@ -65,8 +67,9 @@
             "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35495
-          }
+            "stars": 35503
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -80,8 +83,9 @@
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8027
-          }
+            "stars": 8028
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "jpmens",
             "repo": "jo",
             "stars": 4863
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3796
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "yamafaktory",
             "repo": "jql",
             "stars": 1674
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -141,7 +148,8 @@
             "owner": "uzimaru0000",
             "repo": "tv",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -156,7 +164,8 @@
             "owner": "dskkato",
             "repo": "rjo",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -171,7 +180,8 @@
             "owner": "mattn",
             "repo": "tvgo",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "JSON"
@@ -192,7 +202,8 @@
             "owner": "mgdm",
             "repo": "htmlq",
             "stars": 7577
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "Delapouite",
             "repo": "emmet-cli",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "HTML"
@@ -228,7 +240,8 @@
             "owner": "kislyuk",
             "repo": "yq",
             "stars": 2972
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "YAML/XML/TOML"
@@ -249,7 +262,8 @@
             "owner": "twinbird",
             "repo": "cell",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Excel"
@@ -269,8 +283,9 @@
             "last_commit": "2026-02-25T19:26:21Z",
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7328
-          }
+            "stars": 7330
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -285,7 +300,8 @@
             "owner": "ms-jpq",
             "repo": "sad",
             "stars": 2045
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Sed Replacement"
@@ -305,8 +321,9 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67642
-          }
+            "stars": 67676
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -320,8 +337,9 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27108
-          }
+            "stars": 27109
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -336,7 +354,8 @@
             "owner": "Genivia",
             "repo": "ugrep",
             "stars": 3261
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Grep Replacement"
@@ -356,8 +375,9 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60278
-          }
+            "stars": 60288
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -371,8 +391,9 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27091
-          }
+            "stars": 27102
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -387,7 +408,8 @@
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3716
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Cat Replacement"
@@ -408,7 +430,8 @@
             "owner": "ezrosent",
             "repo": "frawk",
             "stars": 1315
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -423,7 +446,8 @@
             "owner": "gelisam",
             "repo": "hawk",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -443,7 +467,8 @@
                 "owner": "ryuichiueda",
                 "repo": "opy",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:04:46.469Z"
             }
           ],
           "repo_info": {
@@ -454,7 +479,8 @@
             "owner": "ryuichiueda",
             "repo": "opy",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "AWK-like Tools"
@@ -475,7 +501,8 @@
             "owner": "greymd",
             "repo": "teip",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -490,7 +517,8 @@
             "owner": "lotabout",
             "repo": "rargs",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Xargs-like Tools"
@@ -511,7 +539,8 @@
             "owner": "mattn",
             "repo": "tate",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -526,7 +555,8 @@
             "owner": "KoharaKazuya",
             "repo": "forest",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -541,7 +571,8 @@
             "owner": "jiro4989",
             "repo": "align",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Text Editing"
@@ -561,8 +592,9 @@
             "last_commit": "2026-02-23T18:27:18Z",
             "owner": "arp242",
             "repo": "uni",
-            "stars": 860
-          }
+            "stars": 861
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -577,7 +609,8 @@
             "owner": "pemistahl",
             "repo": "chr",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Unicode"
@@ -597,8 +630,9 @@
             "last_commit": "2024-12-10T23:49:11Z",
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7506
-          }
+            "stars": 7507
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -613,7 +647,8 @@
             "owner": "Animenosekai",
             "repo": "translate",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -628,7 +663,8 @@
             "owner": "eggplants",
             "repo": "deepl-cli",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Translate"
@@ -645,11 +681,12 @@
             "archived": false,
             "id": 571770,
             "language": "Haskell",
-            "last_commit": "2026-08-27T22:42:02Z",
+            "last_commit": "2026-08-28T22:11:14Z",
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46042
-          }
+            "stars": 46052
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Document Converter"
@@ -670,7 +707,8 @@
             "owner": "jalan",
             "repo": "pdftotext",
             "stars": 1065
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "PDF"
@@ -690,8 +728,9 @@
             "last_commit": "2026-05-01T02:19:26Z",
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6470
-          }
+            "stars": 6472
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Color"
@@ -712,7 +751,8 @@
             "owner": "jiro4989",
             "repo": "textimg",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Image Processing"
@@ -738,7 +778,8 @@
                 "owner": "jiro4989",
                 "repo": "websh",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:04:46.469Z"
             }
           ]
         }
@@ -760,8 +801,9 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37517
-          }
+            "stars": 37523
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -775,8 +817,9 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20259
-          }
+            "stars": 20274
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         },
         {
           "node_type": "item",
@@ -791,14 +834,15 @@
             "owner": "linsa-io",
             "repo": "command-line-tools",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T23:04:46.469Z"
         }
       ],
       "title": "Related Awesome Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:04.260Z",
+    "last_updated": "2026-08-28T23:04:46.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 407853897,
