@@ -87,10 +87,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35506,
+            "stars": 35508,
             "topics": [
               "jq"
             ]
@@ -428,7 +428,7 @@
             "open_issues": 77,
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7331,
+            "stars": 7332,
             "topics": [
               "cli",
               "command-line",
@@ -493,7 +493,7 @@
             "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67677,
+            "stars": 67694,
             "topics": [
               "cli",
               "command-line",
@@ -597,7 +597,7 @@
             "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60289,
+            "stars": 60296,
             "topics": [
               "cli",
               "command-line",
@@ -627,7 +627,7 @@
             "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27104,
+            "stars": 27111,
             "topics": [
               "cli",
               "excitement",
@@ -974,7 +974,7 @@
             "open_issues": 117,
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7507,
+            "stars": 7506,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
@@ -1060,10 +1060,10 @@
             "language": "Haskell",
             "license": "GPL-2.0",
             "last_commit": "2026-08-29T00:44:21Z",
-            "open_issues": 1033,
+            "open_issues": 1034,
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46054,
+            "stars": 46059,
             "topics": [
               "commonmark",
               "converter",
@@ -1100,7 +1100,7 @@
             "open_issues": 14,
             "owner": "jalan",
             "repo": "pdftotext",
-            "stars": 1065,
+            "stars": 1064,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
@@ -1127,7 +1127,7 @@
             "open_issues": 38,
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6473,
+            "stars": 6474,
             "topics": [
               "cli",
               "color-converter",
@@ -1163,7 +1163,7 @@
             "open_issues": 8,
             "owner": "jiro4989",
             "repo": "textimg",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "cli",
               "command",
@@ -1235,7 +1235,7 @@
             "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37526,
+            "stars": 37529,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1265,7 +1265,7 @@
             "open_issues": 0,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20274,
+            "stars": 20280,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1309,7 +1309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:02.485Z",
+    "last_updated": "2026-08-29T17:11:39.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐚 A list of useful commands in the Unix shell one liner",
