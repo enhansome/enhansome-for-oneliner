@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nifty command line date and time utilities; fast date calculations and conversion in the shell",
+                "homepage": "http://www.fresse.org/dateutils/",
                 "id": 2341061,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-03T07:37:26Z",
+                "open_issues": 60,
                 "owner": "hroptatyr",
                 "repo": "dateutils",
-                "stars": 662
+                "stars": 662,
+                "topics": [
+                  "c",
+                  "command-line",
+                  "command-line-tool",
+                  "convert-dates",
+                  "date-formatting",
+                  "datediff",
+                  "datetime",
+                  "timezone"
+                ]
               },
               "first_seen": "2026-08-28T23:04:46.469Z"
             }
@@ -35,12 +49,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "製品版 usp Tukubai (https://www.usp-lab.com/product.html) の Python によるオープンソース実装。",
+                "homepage": "https://www.uni-tama.com/",
                 "id": 3581381,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T21:49:33Z",
+                "open_issues": 0,
                 "owner": "usp-engineers-community",
                 "repo": "Open-usp-Tukubai",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:46.469Z"
             }
@@ -62,12 +81,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line JSON processor",
+            "homepage": "https://jqlang.org",
             "id": 5101141,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
+            "open_issues": 472,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35503
+            "stars": 35506,
+            "topics": [
+              "jq"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -78,12 +104,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.",
+            "homepage": "https://daseldocs.tomwright.me",
             "id": 297615696,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T19:25:05Z",
+            "open_issues": 25,
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8028
+            "stars": 8028,
+            "topics": [
+              "cli",
+              "config",
+              "configuration",
+              "data-processing",
+              "data-structures",
+              "data-wrangling",
+              "devops-tools",
+              "go",
+              "golang",
+              "hcl2",
+              "json",
+              "json-processing",
+              "parser",
+              "query",
+              "selector",
+              "toml",
+              "update",
+              "xml",
+              "yaml",
+              "yaml-processor"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -94,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON output from a shell",
+            "homepage": "http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/",
             "id": 53133613,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-20T09:47:47Z",
+            "open_issues": 7,
             "owner": "jpmens",
             "repo": "jo",
-            "stars": 4863
+            "stars": 4863,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -110,12 +167,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Go implementation of jq",
+            "homepage": null,
             "id": 180954037,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T14:26:57Z",
+            "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3796
+            "stars": 3796,
+            "topics": [
+              "cli-tool",
+              "cli-utility",
+              "go",
+              "golang",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -126,12 +194,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSON Query Language CLI tool",
+            "homepage": "https://crates.io/crates/jql",
             "id": 147120314,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-18T13:18:28Z",
+            "open_issues": 2,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1674
+            "stars": 1674,
+            "topics": [
+              "cargo",
+              "cli",
+              "devops-tools",
+              "json",
+              "rust",
+              "rustlang",
+              "tool",
+              "tools",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -142,12 +225,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Format json into table view",
+            "homepage": null,
             "id": 400031214,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-09-24T06:49:11Z",
+            "open_issues": 2,
             "owner": "uzimaru0000",
             "repo": "tv",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "cli",
+              "json",
+              "rust",
+              "table",
+              "terminal",
+              "tool",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -158,12 +254,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small utility to create JSON objects, written in Rust.",
+            "homepage": null,
             "id": 172701024,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-06-06T02:15:22Z",
+            "open_issues": 1,
             "owner": "dskkato",
             "repo": "rjo",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "command-line",
+              "json",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -174,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 403530846,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-09-07T13:23:56Z",
+            "open_issues": 0,
             "owner": "mattn",
             "repo": "tvgo",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -196,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like jq, but for HTML.",
+            "homepage": null,
             "id": 185476675,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-27T21:47:02Z",
+            "open_issues": 43,
             "owner": "mgdm",
             "repo": "htmlq",
-            "stars": 7577
+            "stars": 7577,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -212,12 +327,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emmet command line interface",
+            "homepage": null,
             "id": 133346116,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-11-09T03:45:57Z",
+            "open_issues": 4,
             "owner": "Delapouite",
             "repo": "emmet-cli",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "emmet",
+              "kakoune"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -234,12 +357,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents",
+            "homepage": "https://kislyuk.github.io/yq/",
             "id": 78888191,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T17:52:40Z",
+            "open_issues": 23,
             "owner": "kislyuk",
             "repo": "yq",
-            "stars": 2972
+            "stars": 2973,
+            "topics": [
+              "cli",
+              "command-line",
+              "jq",
+              "json",
+              "xml",
+              "yaml",
+              "yml"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -256,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Excel into your command line.",
+            "homepage": null,
             "id": 357955521,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-05-24T03:16:13Z",
+            "open_issues": 0,
             "owner": "twinbird",
             "repo": "cell",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -278,12 +419,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intuitive find & replace CLI (sed alternative)",
+            "homepage": null,
             "id": 162863623,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-25T19:26:21Z",
+            "open_issues": 77,
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7330
+            "stars": 7331,
+            "topics": [
+              "cli",
+              "command-line",
+              "regex",
+              "rust",
+              "terminal",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -294,12 +447,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI search and replace | Space Age seD",
+            "homepage": null,
             "id": 262460365,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-11T01:13:50Z",
+            "open_issues": 28,
             "owner": "ms-jpq",
             "repo": "sad",
-            "stars": 2045
+            "stars": 2045,
+            "topics": [
+              "cli",
+              "command-line",
+              "diff",
+              "editing",
+              "fzf",
+              "rust",
+              "sed",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -316,12 +484,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "homepage": null,
             "id": 53631945,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
+            "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67676
+            "stars": 67677,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "gitignore",
+              "grep",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "rust",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -332,12 +516,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A code-searching tool similar to ack, but faster.",
+            "homepage": "http://geoff.greer.fm/ag/",
             "id": 2810455,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-16T19:37:41Z",
+            "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27109
+            "stars": 27109,
+            "topics": [
+              "ag",
+              "c",
+              "command-line-tool",
+              "pcre",
+              "search-in-text",
+              "silver-searcher"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -348,12 +544,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more",
+            "homepage": "https://ugrep.com",
             "id": 183980799,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T14:11:20Z",
+            "open_issues": 8,
             "owner": "Genivia",
             "repo": "ugrep",
-            "stars": 3261
+            "stars": 3261,
+            "topics": [
+              "code-search",
+              "file-indexing",
+              "file-search",
+              "fuzzy-search",
+              "grep",
+              "hexdump",
+              "interactive",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "search",
+              "silver-searcher",
+              "tar",
+              "tui",
+              "unicode",
+              "zip"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -370,12 +588,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60288
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -386,12 +618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+            "homepage": null,
             "id": 219616873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T00:02:03Z",
+            "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27102
+            "stars": 27104,
+            "topics": [
+              "cli",
+              "excitement",
+              "hacktoberfest",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -402,12 +644,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich-cli is a command line toolbox for fancy output in the terminal",
+            "homepage": "https://www.textualize.io",
             "id": 450811921,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T04:57:11Z",
+            "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3716
+            "stars": 3716,
+            "topics": [
+              "markdown",
+              "rich",
+              "syntax-highlighting",
+              "terminal",
+              "terminal-colors"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -424,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an efficient awk-like language",
+            "homepage": null,
             "id": 197134490,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-26T04:45:49Z",
+            "open_issues": 35,
             "owner": "ezrosent",
             "repo": "frawk",
-            "stars": 1315
+            "stars": 1315,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -440,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell text processor for the command-line",
+            "homepage": null,
             "id": 11855514,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-10T04:55:36Z",
+            "open_issues": 75,
             "owner": "gelisam",
             "repo": "hawk",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -461,24 +724,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "onelinerers' Python, which works like AWK",
+                "homepage": "https://snapcraft.io/opy",
                 "id": 205075384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-03T00:47:06Z",
+                "open_issues": 0,
                 "owner": "ryuichiueda",
                 "repo": "opy",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:46.469Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "onelinerers' Python, which works like AWK",
+            "homepage": "https://snapcraft.io/opy",
             "id": 205075384,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-03T00:47:06Z",
+            "open_issues": 0,
             "owner": "ryuichiueda",
             "repo": "opy",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -495,12 +768,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Masking tape to help commands \"do one thing well\"",
+            "homepage": null,
             "id": 268647751,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:58:05Z",
+            "open_issues": 9,
             "owner": "greymd",
             "repo": "teip",
-            "stars": 598
+            "stars": 598,
+            "topics": [
+              "awk",
+              "cli",
+              "command-line",
+              "grep",
+              "rust",
+              "sed",
+              "shell",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -511,12 +799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\\.bak' mv {0} {1}`",
+            "homepage": null,
             "id": 128610722,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-07-30T08:34:10Z",
+            "open_issues": 12,
             "owner": "lotabout",
             "repo": "rargs",
-            "stars": 570
+            "stars": 570,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -533,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 105542583,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-22T00:57:18Z",
+            "open_issues": 0,
             "owner": "mattn",
             "repo": "tate",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -549,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "forest は行指向で構造化された木構造を表すテキストを整形して出力するコマンド",
+            "homepage": null,
             "id": 98030106,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2017-07-23T11:46:01Z",
+            "open_issues": 0,
             "owner": "KoharaKazuya",
             "repo": "forest",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -565,12 +868,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple text align CLI",
+            "homepage": null,
             "id": 178566837,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-05-31T11:51:18Z",
+            "open_issues": 0,
             "owner": "jiro4989",
             "repo": "align",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "align",
+              "cli",
+              "go",
+              "text"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -587,12 +900,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Query the Unicode database from the commandline, with good support for emojis",
+            "homepage": null,
             "id": 163366084,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-23T18:27:18Z",
+            "open_issues": 6,
             "owner": "arp242",
             "repo": "uni",
-            "stars": 861
+            "stars": 861,
+            "topics": [
+              "emoji",
+              "emoji-picker",
+              "go",
+              "golang",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -603,12 +927,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool that gives information about Unicode characters",
+            "homepage": null,
             "id": 274073803,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-14T10:14:41Z",
+            "open_issues": 2,
             "owner": "pemistahl",
             "repo": "chr",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "rust",
+              "rust-cli",
+              "rust-crate",
+              "terminal",
+              "tool",
+              "unicode",
+              "unicode-character",
+              "unicode-character-database"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -625,12 +965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.",
+            "homepage": "https://www.soimort.org/translate-shell",
             "id": 7997994,
             "language": "Awk",
+            "license": "Unlicense",
             "last_commit": "2024-12-10T23:49:11Z",
+            "open_issues": 117,
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7507
+            "stars": 7507,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -641,12 +986,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module grouping multiple translation APIs",
+            "homepage": null,
             "id": 335014446,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-10T07:07:10Z",
+            "open_issues": 18,
             "owner": "Animenosekai",
             "repo": "translate",
-            "stars": 558
+            "stars": 558,
+            "topics": [
+              "bing-translate",
+              "deepl",
+              "google-translate",
+              "language",
+              "python",
+              "reverso",
+              "translate",
+              "translation",
+              "translator",
+              "yandex",
+              "yandex-translate"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -657,12 +1019,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepL Translator CLI (without API Key)",
+            "homepage": "http://egpl.dev/deepl-cli/",
             "id": 263507990,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T14:23:08Z",
+            "open_issues": 0,
             "owner": "eggplants",
             "repo": "deepl-cli",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "cli",
+              "deepl-translator",
+              "docker",
+              "puppeteer",
+              "pyppeteer",
+              "python",
+              "translator"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -679,12 +1054,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal markup converter",
+            "homepage": "https://pandoc.org",
             "id": 571770,
             "language": "Haskell",
-            "last_commit": "2026-08-28T22:11:14Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T00:44:21Z",
+            "open_issues": 1033,
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46052
+            "stars": 46054,
+            "topics": [
+              "commonmark",
+              "converter",
+              "document",
+              "haskell",
+              "markdown",
+              "markup",
+              "pandoc",
+              "presentation",
+              "publishing"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -701,12 +1091,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 89026317,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-28T00:00:42Z",
+            "open_issues": 14,
             "owner": "jalan",
             "repo": "pdftotext",
-            "stars": 1065
+            "stars": 1065,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -723,12 +1118,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool to generate, analyze, convert and manipulate colors",
+            "homepage": null,
             "id": 189867161,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T02:19:26Z",
+            "open_issues": 38,
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6472
+            "stars": 6473,
+            "topics": [
+              "cli",
+              "color-converter",
+              "color-space",
+              "colors",
+              "command-line",
+              "rust",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -745,12 +1154,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command to convert from color text (ANSI or 256) to image.",
+            "homepage": null,
             "id": 183251932,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:22:43Z",
+            "open_issues": 8,
             "owner": "jiro4989",
             "repo": "textimg",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "cli",
+              "command",
+              "escape-sequences",
+              "go",
+              "image"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -772,12 +1192,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "シェル芸botをWebで使えるようにしたNim製Webアプリ",
+                "homepage": "https://websh.jiro4989.com",
                 "id": 217877724,
                 "language": "Nim",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-20T08:48:47Z",
+                "open_issues": 11,
                 "owner": "jiro4989",
                 "repo": "websh",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "backend",
+                  "frontend",
+                  "nim",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:04:46.469Z"
             }
@@ -796,12 +1226,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 21552971,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
+            "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37523
+            "stars": 37526,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "cli",
+              "fish",
+              "list",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -812,12 +1256,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+            "homepage": null,
             "id": 38832942,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-22T08:06:18Z",
+            "open_issues": 0,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20274
+            "stars": 20274,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cli",
+              "cli-app",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         },
@@ -828,12 +1283,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Command Line Utilities",
+            "homepage": null,
             "id": 93959870,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
+            "open_issues": 17,
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "command-line-tools",
+              "curated-list",
+              "knowledge",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
         }
@@ -842,15 +1309,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:04:46.469Z",
+    "last_updated": "2026-08-29T04:58:02.485Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🐚 A list of useful commands in the Unix shell one liner",
+      "homepage": null,
       "id": 407853897,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-08-18T08:49:10Z",
+      "open_issues": 0,
       "owner": "sheepla",
       "repo": "awesome-for-oneliner",
-      "stars": 143
+      "stars": 143,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bash",
+        "cli",
+        "oneliner",
+        "shell",
+        "shellgei"
+      ]
     },
     "original_repository_sha": "82d2a229788ee6e75c5574e60bf9a0bef8be044d",
     "enhanced_repository": "enhansome/enhansome-for-oneliner",
