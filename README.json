@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "hroptatyr",
                 "repo": "dateutils",
-                "stars": 664,
+                "stars": 663,
                 "topics": [
                   "c",
                   "command-line",
@@ -87,10 +87,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T06:21:29Z",
-            "open_issues": 451,
+            "open_issues": 450,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35623,
+            "stars": 35646,
             "topics": [
               "jq"
             ]
@@ -113,7 +113,7 @@
             "open_issues": 25,
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8036,
+            "stars": 8039,
             "topics": [
               "cli",
               "config",
@@ -176,7 +176,7 @@
             "open_issues": 18,
             "owner": "itchyny",
             "repo": "gojq",
-            "stars": 3804,
+            "stars": 3805,
             "topics": [
               "cli-tool",
               "cli-utility",
@@ -203,7 +203,7 @@
             "open_issues": 0,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1681,
+            "stars": 1682,
             "topics": [
               "cargo",
               "cli",
@@ -362,8 +362,8 @@
             "id": 78888191,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-11T17:52:40Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-19T23:15:25Z",
+            "open_issues": 22,
             "owner": "kislyuk",
             "repo": "yq",
             "stars": 2981,
@@ -428,7 +428,7 @@
             "open_issues": 78,
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7356,
+            "stars": 7358,
             "topics": [
               "cli",
               "command-line",
@@ -490,10 +490,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 199,
+            "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68439,
+            "stars": 68467,
             "topics": [
               "cli",
               "command-line",
@@ -553,7 +553,7 @@
             "open_issues": 7,
             "owner": "Genivia",
             "repo": "ugrep",
-            "stars": 3297,
+            "stars": 3296,
             "topics": [
               "code-search",
               "file-indexing",
@@ -597,7 +597,7 @@
             "open_issues": 518,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60502,
+            "stars": 60510,
             "topics": [
               "cli",
               "command-line",
@@ -624,10 +624,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T11:41:49Z",
-            "open_issues": 235,
+            "open_issues": 236,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27384,
+            "stars": 27392,
             "topics": [
               "cli",
               "excitement",
@@ -653,7 +653,7 @@
             "open_issues": 47,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3723,
+            "stars": 3724,
             "topics": [
               "markdown",
               "rich",
@@ -1018,11 +1018,11 @@
             "id": 263507990,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:16:24Z",
+            "last_commit": "2026-09-20T10:05:33Z",
             "open_issues": 0,
             "owner": "eggplants",
             "repo": "deepl-cli",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "cli",
               "deepl-translator",
@@ -1053,11 +1053,11 @@
             "id": 571770,
             "language": "Haskell",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-19T06:24:03Z",
-            "open_issues": 1040,
+            "last_commit": "2026-09-20T02:55:31Z",
+            "open_issues": 1039,
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46336,
+            "stars": 46348,
             "topics": [
               "commonmark",
               "converter",
@@ -1121,7 +1121,7 @@
             "open_issues": 39,
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6499,
+            "stars": 6501,
             "topics": [
               "cli",
               "color-converter",
@@ -1229,7 +1229,7 @@
             "open_issues": 186,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37644,
+            "stars": 37645,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1256,10 +1256,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-13T05:36:57Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20428,
+            "stars": 20430,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:32:31.352Z",
+    "last_updated": "2026-09-20T16:51:52.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐚 A list of useful commands in the Unix shell one liner",
