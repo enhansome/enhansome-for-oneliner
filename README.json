@@ -90,7 +90,7 @@
             "open_issues": 427,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35721,
+            "stars": 35731,
             "topics": [
               "jq"
             ]
@@ -113,7 +113,7 @@
             "open_issues": 25,
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8043,
+            "stars": 8044,
             "topics": [
               "cli",
               "config",
@@ -315,7 +315,7 @@
             "open_issues": 43,
             "owner": "mgdm",
             "repo": "htmlq",
-            "stars": 7581,
+            "stars": 7582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
@@ -425,10 +425,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-02-25T19:26:21Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7372,
+            "stars": 7377,
             "topics": [
               "cli",
               "command-line",
@@ -490,10 +490,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 203,
+            "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68707,
+            "stars": 68736,
             "topics": [
               "cli",
               "command-line",
@@ -525,7 +525,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27131,
+            "stars": 27130,
             "topics": [
               "ag",
               "c",
@@ -594,10 +594,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T18:13:30Z",
-            "open_issues": 523,
+            "open_issues": 524,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60611,
+            "stars": 60614,
             "topics": [
               "cli",
               "command-line",
@@ -624,10 +624,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-27T00:03:25Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27505,
+            "stars": 27519,
             "topics": [
               "cli",
               "excitement",
@@ -653,7 +653,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3726,
+            "stars": 3728,
             "topics": [
               "markdown",
               "rich",
@@ -777,7 +777,7 @@
             "open_issues": 9,
             "owner": "greymd",
             "repo": "teip",
-            "stars": 598,
+            "stars": 597,
             "topics": [
               "awk",
               "cli",
@@ -968,7 +968,7 @@
             "open_issues": 117,
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7515,
+            "stars": 7517,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
@@ -1053,11 +1053,11 @@
             "id": 571770,
             "language": "Haskell",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-29T17:10:29Z",
-            "open_issues": 1054,
+            "last_commit": "2026-09-30T16:35:30Z",
+            "open_issues": 1053,
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46450,
+            "stars": 46459,
             "topics": [
               "commonmark",
               "converter",
@@ -1121,7 +1121,7 @@
             "open_issues": 39,
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6510,
+            "stars": 6512,
             "topics": [
               "cli",
               "color-converter",
@@ -1229,7 +1229,7 @@
             "open_issues": 188,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37697,
+            "stars": 37696,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1255,11 +1255,11 @@
             "id": 38832942,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-28T21:32:12Z",
+            "last_commit": "2026-09-30T08:16:23Z",
             "open_issues": 1,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20485,
+            "stars": 20488,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1283,7 +1283,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "linsa-io",
             "repo": "command-line-tools",
             "stars": 496,
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:40:48.696Z",
+    "last_updated": "2026-09-30T18:28:15.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐚 A list of useful commands in the Unix shell one liner",
