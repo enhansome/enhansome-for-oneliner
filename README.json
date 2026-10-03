@@ -87,10 +87,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T06:39:24Z",
-            "open_issues": 429,
+            "open_issues": 430,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35736,
+            "stars": 35737,
             "topics": [
               "jq"
             ]
@@ -173,7 +173,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-27T04:22:21Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "itchyny",
             "repo": "gojq",
             "stars": 3808,
@@ -366,7 +366,7 @@
             "open_issues": 22,
             "owner": "kislyuk",
             "repo": "yq",
-            "stars": 2987,
+            "stars": 2986,
             "topics": [
               "cli",
               "command-line",
@@ -428,7 +428,7 @@
             "open_issues": 81,
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "cli",
               "command-line",
@@ -493,7 +493,7 @@
             "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68780,
+            "stars": 68788,
             "topics": [
               "cli",
               "command-line",
@@ -525,7 +525,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27120,
+            "stars": 27121,
             "topics": [
               "ag",
               "c",
@@ -553,7 +553,7 @@
             "open_issues": 8,
             "owner": "Genivia",
             "repo": "ugrep",
-            "stars": 3305,
+            "stars": 3306,
             "topics": [
               "code-search",
               "file-indexing",
@@ -597,7 +597,7 @@
             "open_issues": 535,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60640,
+            "stars": 60644,
             "topics": [
               "cli",
               "command-line",
@@ -627,7 +627,7 @@
             "open_issues": 240,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27556,
+            "stars": 27562,
             "topics": [
               "cli",
               "excitement",
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "To know how to use , see EXAMPLES.md",
-              "description": null,
+              "description": "ryuichiueda/opy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,7 +968,7 @@
             "open_issues": 117,
             "owner": "soimort",
             "repo": "translate-shell",
-            "stars": 7516,
+            "stars": 7515,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:46.469Z"
@@ -989,7 +989,7 @@
             "open_issues": 18,
             "owner": "Animenosekai",
             "repo": "translate",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "bing-translate",
               "deepl",
@@ -1053,11 +1053,11 @@
             "id": 571770,
             "language": "Haskell",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T17:11:09Z",
+            "last_commit": "2026-10-03T04:46:08Z",
             "open_issues": 1053,
             "owner": "jgm",
             "repo": "pandoc",
-            "stars": 46471,
+            "stars": 46474,
             "topics": [
               "commonmark",
               "converter",
@@ -1118,10 +1118,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T02:19:26Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "sharkdp",
             "repo": "pastel",
-            "stars": 6513,
+            "stars": 6512,
             "topics": [
               "cli",
               "color-converter",
@@ -1182,7 +1182,7 @@
             {
               "node_type": "item",
               "title": "Repository",
-              "description": null,
+              "description": "jiro4989/websh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1216,7 @@
         {
           "node_type": "item",
           "title": "awesome-shell",
-          "description": null,
+          "description": "alebcay/awesome-shell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1229,7 +1229,7 @@
             "open_issues": 188,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37703,
+            "stars": 37708,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1246,7 +1246,7 @@
         {
           "node_type": "item",
           "title": "awesome-cli-apps",
-          "description": null,
+          "description": "agarrharr/awesome-cli-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,10 +1256,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-30T08:16:23Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20497,
+            "stars": 20495,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1273,7 +1273,7 @@
         {
           "node_type": "item",
           "title": "command-line-tools",
-          "description": null,
+          "description": "linsa-io/command-line-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:30:26.228Z",
+    "last_updated": "2026-10-03T04:46:39.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐚 A list of useful commands in the Unix shell one liner",
