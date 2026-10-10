@@ -8,7 +8,7 @@
 <div align="center">
   <h1> 🐚 Awesome CLI tools for One Liner </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,694 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,147 | 🐛 106 | 📅 2026-09-02
 
 This is a list of useful commands in the Unix shell one liner. **Contributions are welcome!**
 
@@ -40,7 +40,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ### dateutils
 
-[dateutils](https://github.com/hroptatyr/dateutils) ⭐ 666 | 🐛 61 | 🌐 C | 📅 2026-09-24 - nifty command line date and time utilities; fast date calculations and conversion in the shell
+[dateutils](https://github.com/hroptatyr/dateutils) ⭐ 665 | 🐛 61 | 🌐 C | 📅 2026-09-24 - nifty command line date and time utilities; fast date calculations and conversion in the shell
 
 * `strptime` :  Command line version of the C function
 * `dateadd` :  Add durations to dates or times
@@ -66,10 +66,10 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## JSON
 
-* [jq](https://github.com/stedolan/jq) ⭐ 35,774 | 🐛 422 | 🌐 C | 📅 2026-10-09 - A JSON Query Language tool
-* [dasel](https://github.com/tomwright/dasel) ⭐ 8,045 | 🐛 28 | 🌐 Go | 📅 2026-08-16 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 35,774 | 🐛 422 | 🌐 C | 📅 2026-10-09 - [yq](https://github.com/kislyuk/yq) ⭐ 2,992 | 🐛 24 | 🌐 Python | 📅 2026-09-27 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-* [jo](https://github.com/jpmens/jo) ⭐ 4,868 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects from command-line arguments
-* [gojq](https://github.com/itchyny/gojq) ⭐ 3,810 | 🐛 15 | 🌐 Go | 📅 2026-10-09 -A JSON Query Language tool written in Go
+* [jq](https://github.com/stedolan/jq) ⭐ 35,777 | 🐛 418 | 🌐 C | 📅 2026-10-10 - A JSON Query Language tool
+* [dasel](https://github.com/tomwright/dasel) ⭐ 8,045 | 🐛 28 | 🌐 Go | 📅 2026-08-16 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 35,777 | 🐛 418 | 🌐 C | 📅 2026-10-10 - [yq](https://github.com/kislyuk/yq) ⭐ 2,992 | 🐛 22 | 🌐 Python | 📅 2026-10-10 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [jo](https://github.com/jpmens/jo) ⭐ 4,869 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects from command-line arguments
+* [gojq](https://github.com/itchyny/gojq) ⭐ 3,812 | 🐛 15 | 🌐 Go | 📅 2026-10-09 -A JSON Query Language tool written in Go
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,684 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language tool written in Rust
 * [tv](https://github.com/uzimaru0000/tv) ⭐ 356 | 🐛 2 | 🌐 Rust | 📅 2021-09-24 - A command to format JSON into table view
 * [rjo](https://github.com/dskkato/rjo) ⭐ 68 | 🐛 1 | 🌐 Rust | 📅 2023-06-06 - A small utility to create JSON objects from command-line arguments written in Rust
@@ -86,7 +86,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## YAML/XML/TOML
 
-* [yq](https://github.com/kislyuk/yq) ⭐ 2,992 | 🐛 24 | 🌐 Python | 📅 2026-09-27 - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+* [yq](https://github.com/kislyuk/yq) ⭐ 2,992 | 🐛 22 | 🌐 Python | 📅 2026-10-10 - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 
 ## Excel
 
@@ -94,28 +94,28 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Sed Replacement
 
-* [sd](https://github.com/chmln/sd) ⭐ 7,386 | 🐛 82 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
+* [sd](https://github.com/chmln/sd) ⭐ 7,387 | 🐛 82 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
 * [sad](https://github.com/ms-jpq/sad) ⭐ 2,044 | 🐛 28 | 🌐 Rust | 📅 2026-05-11 - sed replacement written in Rust
 
 ## Grep Replacement
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,955 | 🐛 202 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,003 | 🐛 203 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
 * [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,125 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
-* [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,306 | 🐛 8 | 🌐 C++ | 📅 2026-09-28 - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
+* [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,307 | 🐛 8 | 🌐 C++ | 📅 2026-09-28 - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
 
 ## Find Replacement
 
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,704 | 🐛 203 | 🌐 Rust | 📅 2026-10-07 - A simple, fast and user-friendly alternative to `find`
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,740 | 🐛 203 | 🌐 Rust | 📅 2026-10-07 - A simple, fast and user-friendly alternative to `find`
 
 ## Cat Replacement
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,724 | 🐛 544 | 🌐 Rust | 📅 2026-10-07 - A rewrite of cat with paging, syntax highlighting, and line numbers
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,637 | 🐛 242 | 🌐 Go | 📅 2026-10-05 - A command-line markdown viewer/renderer
-* [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,750 | 🐛 52 | 🌐 Python | 📅 2026-10-05 - Syntax-highlights files from the command line
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,751 | 🐛 544 | 🌐 Rust | 📅 2026-10-07 - A rewrite of cat with paging, syntax highlighting, and line numbers
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,648 | 🐛 244 | 🌐 Go | 📅 2026-10-05 - A command-line markdown viewer/renderer
+* [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,756 | 🐛 52 | 🌐 Python | 📅 2026-10-05 - Syntax-highlights files from the command line
 
 ## AWK-like Tools
 
-* [frawk](https://github.com/ezrosent/frawk) ⭐ 1,317 | 🐛 35 | 🌐 Rust | 📅 2025-09-26 - An efficient AWK like language written in Rust
+* [frawk](https://github.com/ezrosent/frawk) ⭐ 1,318 | 🐛 35 | 🌐 Rust | 📅 2025-09-26 - An efficient AWK like language written in Rust
 * [hawk](https://github.com/gelisam/hawk) ⭐ 364 | 🐛 75 | 🌐 Haskell | 📅 2024-02-10 - Haskell text processor for the command-line
 * [opy](https://github.com/ryuichiueda/opy) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2021-07-03 - A Python wrapper which works like AWK
   * To know how to use `opy`, see [EXAMPLES.md](https://github.com/ryuichiueda/opy/blob/master/EXAMPLES.md) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2021-07-03
@@ -133,11 +133,11 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Regular Expression
 
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,217 | 🐛 22 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,219 | 🐛 22 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases
 
 ## Unicode
 
-* [uni](https://github.com/arp242/uni) ⭐ 860 | 🐛 6 | 🌐 Go | 📅 2026-09-17 - Query the Unicode database from the commandline, with good support for emojis
+* [uni](https://github.com/arp242/uni) ⭐ 861 | 🐛 6 | 🌐 Go | 📅 2026-09-17 - Query the Unicode database from the commandline, with good support for emojis
 * [chr](https://github.com/pemistahl/chr) ⭐ 46 | 🐛 2 | 🌐 Rust | 📅 2021-01-14 - A command-line tool that gives information about Unicode characters
 
 ## Translate
@@ -148,7 +148,7 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Document Converter
 
-* [pandoc](https://github.com/jgm/pandoc) ⭐ 46,637 | 🐛 1,047 | 🌐 Haskell | 📅 2026-10-08 - Universal markup converter written in Haskell
+* [pandoc](https://github.com/jgm/pandoc) ⭐ 46,641 | 🐛 1,046 | 🌐 Haskell | 📅 2026-10-10 - Universal markup converter written in Haskell
 
 ## PDF
 
@@ -180,9 +180,9 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Related *Awesome* Repositories
 
-* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,752 | 🐛 189 | 📅 2025-08-28
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,517 | 🐛 2 | 🌐 Shell | 📅 2026-10-04
-* [command-line-tools](https://github.com/learn-anything/command-line-tools) ⭐ 496 | 🐛 20 | 📅 2026-08-16
+* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,758 | 🐛 191 | 📅 2025-08-28
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,525 | 🐛 3 | 🌐 Shell | 📅 2026-10-04
+* [command-line-tools](https://github.com/learn-anything/command-line-tools) ⭐ 496 | 🐛 23 | 📅 2026-08-16
 
 ## Contribution
 
@@ -194,4 +194,4 @@ Welcome! ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
