@@ -8,7 +8,7 @@
 <div align="center">
   <h1> 🐚 Awesome CLI tools for One Liner </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,908 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,394 | 🐛 105 | 📅 2026-09-02
 
 This is a list of useful commands in the Unix shell one liner. **Contributions are welcome!**
 
@@ -66,8 +66,8 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## JSON
 
-* [jq](https://github.com/stedolan/jq) ⭐ 35,804 | 🐛 418 | 🌐 C | 📅 2026-10-13 - A JSON Query Language tool
-* [dasel](https://github.com/tomwright/dasel) ⭐ 8,046 | 🐛 29 | 🌐 Go | 📅 2026-08-16 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 35,804 | 🐛 418 | 🌐 C | 📅 2026-10-13 - [yq](https://github.com/kislyuk/yq) ⭐ 2,993 | 🐛 20 | 🌐 Python | 📅 2026-10-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [jq](https://github.com/stedolan/jq) ⭐ 35,820 | 🐛 423 | 🌐 C | 📅 2026-10-13 - A JSON Query Language tool
+* [dasel](https://github.com/tomwright/dasel) ⭐ 8,046 | 🐛 23 | 🌐 Go | 📅 2026-10-15 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 35,820 | 🐛 423 | 🌐 C | 📅 2026-10-13 - [yq](https://github.com/kislyuk/yq) ⭐ 2,993 | 🐛 20 | 🌐 Python | 📅 2026-10-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [jo](https://github.com/jpmens/jo) ⭐ 4,869 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects from command-line arguments
 * [gojq](https://github.com/itchyny/gojq) ⭐ 3,812 | 🐛 16 | 🌐 Go | 📅 2026-10-11 -A JSON Query Language tool written in Go
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,685 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language tool written in Rust
@@ -94,24 +94,24 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Sed Replacement
 
-* [sd](https://github.com/chmln/sd) ⭐ 7,388 | 🐛 82 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
+* [sd](https://github.com/chmln/sd) ⭐ 7,390 | 🐛 82 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI (sed alternative)
 * [sad](https://github.com/ms-jpq/sad) ⭐ 2,043 | 🐛 28 | 🌐 Rust | 📅 2026-05-11 - sed replacement written in Rust
 
 ## Grep Replacement
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,097 | 🐛 207 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
-* [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,128 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,123 | 🐛 215 | 🌐 Rust | 📅 2026-08-04 - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
+* [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,129 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
 * [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,309 | 🐛 9 | 🌐 C++ | 📅 2026-10-12 - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
 
 ## Find Replacement
 
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,747 | 🐛 205 | 🌐 Rust | 📅 2026-10-07 - A simple, fast and user-friendly alternative to `find`
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,752 | 🐛 208 | 🌐 Rust | 📅 2026-10-14 - A simple, fast and user-friendly alternative to `find`
 
 ## Cat Replacement
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,765 | 🐛 553 | 🌐 Rust | 📅 2026-10-14 - A rewrite of cat with paging, syntax highlighting, and line numbers
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,688 | 🐛 252 | 🌐 Go | 📅 2026-10-05 - A command-line markdown viewer/renderer
-* [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,766 | 🐛 54 | 🌐 Python | 📅 2026-10-05 - Syntax-highlights files from the command line
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,786 | 🐛 554 | 🌐 Rust | 📅 2026-10-14 - A rewrite of cat with paging, syntax highlighting, and line numbers
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,701 | 🐛 252 | 🌐 Go | 📅 2026-10-05 - A command-line markdown viewer/renderer
+* [rich-cli](https://github.com/Textualize/rich-cli) ⭐ 3,766 | 🐛 56 | 🌐 Python | 📅 2026-10-05 - Syntax-highlights files from the command line
 
 ## AWK-like Tools
 
@@ -142,13 +142,13 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Translate
 
-* [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,524 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 - Command-line translation tool written in AWK
+* [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,523 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 - Command-line translation tool written in AWK
 * [translate](https://github.com/Animenosekai/translate) ⭐ 559 | 🐛 18 | 🌐 Python | 📅 2024-07-10 - A module grouping multiple translation APIs written in Python
 * [deepl-cli](https://github.com/eggplants/deepl-cli) ⭐ 305 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - DeepL Translator CLI written in Python
 
 ## Document Converter
 
-* [pandoc](https://github.com/jgm/pandoc) ⭐ 46,585 | 🐛 1,041 | 🌐 Haskell | 📅 2026-10-14 - Universal markup converter written in Haskell
+* [pandoc](https://github.com/jgm/pandoc) ⭐ 46,598 | 🐛 1,045 | 🌐 Haskell | 📅 2026-10-15 - Universal markup converter written in Haskell
 
 ## PDF
 
@@ -180,9 +180,9 @@ This is a list of useful commands in the Unix shell one liner. **Contributions a
 
 ## Related *Awesome* Repositories
 
-* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,783 | 🐛 190 | 📅 2025-08-28
+* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,787 | 🐛 190 | 📅 2025-08-28
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived
-* [command-line-tools](https://github.com/learn-anything/command-line-tools) ⭐ 497 | 🐛 22 | 📅 2026-08-16
+* [command-line-tools](https://github.com/learn-anything/command-line-tools) ⭐ 496 | 🐛 22 | 📅 2026-08-16
 
 ## Contribution
 
@@ -194,4 +194,4 @@ Welcome! ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
